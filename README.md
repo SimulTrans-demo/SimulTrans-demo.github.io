@@ -1,4 +1,3 @@
 # SimulTrans-demo.github.io
-video demos for simultaneous translation
+Demos for STACL(Simultaneous Translation with Intergrated Aniticipation and Controllable Latency)
 
-<video src="video/Simultaneous_interpreting.mov" width="320" height="200" controls preload></video>
